@@ -48,17 +48,16 @@
 ---
 
 ## 🏆 GitHub Achievements
+// <p align="center">
+//  <img src="https://github-profile-trophy.vercel.app/?username=its-gizmo47&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+// </p>
+## ​ GitHub Achievements (Static)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-gizmo47&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  ![Followers](https://img.shields.io/github/followers/its-gizmo47?label=Followers&style=flat-square)
+  ![Total Stars](https://img.shields.io/github/stars/its-gizmo47?label=Stars&style=flat-square)
+  ![Total Commits](https://img.shields.io/badge/Commits——️?style=flat-square)
 </p>
 
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
 
 ---
 
@@ -70,7 +69,6 @@
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 
 ---
 
