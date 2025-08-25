@@ -15,6 +15,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=its-gizmo47&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
+
+
 ## 🛠️ Tech Arsenal
 <p align="center">
   
@@ -44,21 +49,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="200" alt="Detailed Languages"/>
 </p>
 
-
+<!-- 
 ---
-
 ## 🏆 GitHub Achievements
-// <p align="center">
-//  <img src="https://github-profile-trophy.vercel.app/?username=its-gizmo47&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-// </p>
-## ​ GitHub Achievements (Static)
 <p align="center">
-  ![Followers](https://img.shields.io/github/followers/its-gizmo47?label=Followers&style=flat-square)
-  ![Total Stars](https://img.shields.io/github/stars/its-gizmo47?label=Stars&style=flat-square)
-  ![Total Commits](https://img.shields.io/badge/Commits——️?style=flat-square)
+  <img src="https://github-profile-trophy.vercel.app/?username=its-gizmo47&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </p>
-
-
+-->
 ---
 
 ## ​ Contribution Snake
@@ -80,10 +77,4 @@
   <a href="https://its-gizmo47.github.io/GiZMo47-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-gizmo47&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
