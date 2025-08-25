@@ -19,7 +19,7 @@
 <p align="center">
   
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,mysql,postgressql,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,mysql,postgres,html,css" />
   <br>
   
   <!-- Frameworks & Stacks -->
@@ -41,11 +41,7 @@
 
 ### 🖥️ Languages Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="200" alt="Detailed Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="200" alt="Detailed Languages"/>
 </p>
 
 
