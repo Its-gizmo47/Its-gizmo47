@@ -61,10 +61,10 @@
 
 ## 🌐 Let’s Connect
 <p align="center">
-  <a href="[your-linkedin-url](https://www.linkedin.com/in/ali-haider-388a78306/)">
+  <a href="https://www.linkedin.com/in/ali-haider-388a78306/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[your-portfolio-url](https://its-gizmo47.github.io/GiZMo47-Portfolio/)">
+  <a href="https://its-gizmo47.github.io/GiZMo47-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
