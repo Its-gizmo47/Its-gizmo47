@@ -41,7 +41,7 @@
 
 ### 🖥️ Languages Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&include_all_commits=true" height="200" alt="Detailed Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21 height="200" alt="Detailed Languages"/>
 </p>
 
 
