@@ -43,7 +43,7 @@
 </p>
 
 <a href="https://github.com/ahmedalmory/ahmedalmory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalmory&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
