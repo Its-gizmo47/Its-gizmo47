@@ -1,7 +1,6 @@
 <!-- Banner -->
-![GitHub Banner](https://i.imgur.com/V5P0R4p.gif)
 
-# 👋 Hey, I'm **GiZMo**  
+# 👋 Hey, I'm **Ali Haider**  
 💻 Full Stack Developer | ⚡ Problem Solver | 🚀 Future AI Engineer  
 
 ---
@@ -9,7 +8,7 @@
 ## 🚀 About Me
 - 🔭 Currently building **scalable full stack apps**
 - 💡 Strong in **React, Laravel & MySQL**
-- 🌱 Expanding into **MERN, React Native & Python (AI/ML)**
+- 🌱 Expanding into **MERN, Next.js & Python (AI/ML)**
 - 👯 Open to collaboration on **high-impact React, MERN & Laravel projects**
 - 🏆 Career Goal → **Software Engineer with AI/ML expertise**
 - ⚡ Motto: *“Code, Create, Conquer.”*
@@ -20,15 +19,15 @@
 <p align="center">
   
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,mysql,html,css" />
   <br>
   
   <!-- Frameworks & Stacks -->
-  <img src="https://skillicons.dev/icons?i=react,reactnative,laravel,nextjs,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,nextjs,nodejs,express,mongodb" />
   <br>
   
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,aws" />
 </p>
 
 ---
@@ -37,9 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=its-gizmo47&show_icons=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-gizmo47&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
