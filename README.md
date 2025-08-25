@@ -1,7 +1,5 @@
 <!-- Profile Banner -->
-![MasterHead](https://i.imgur.com/zFzVgWA.gif)
-
-# Hi 👋, I'm GiZMo  
+# Hi 👋, I'm Ali Haider  
 💻 Full Stack Developer | 🚀 Tech Explorer | ⚡ Code Wizard  
 
 ---
