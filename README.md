@@ -7,6 +7,9 @@
 - ⚡ Fun fact: I turn ☕ into code.
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=its-gizmo47&color=blueviolet)
+
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-gizmo47&show_icons=true&theme=tokyonight)  
