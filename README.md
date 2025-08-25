@@ -19,15 +19,21 @@
 <p align="center">
   
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,mysql,postgres,html,css" />
+   <a href="https://github.com/Its-gizmo47">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,mysql,postgres,html,css" />
+   </a>
   <br>
   
   <!-- Frameworks & Stacks -->
-  <img src="https://skillicons.dev/icons?i=react,laravel,nextjs,nodejs,express,mongodb" />
+   <a href="https://github.com/Its-gizmo47">
+    <img src="https://skillicons.dev/icons?i=react,laravel,nextjs,nodejs,express,mongodb" />
+   </a>
   <br>
   
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,aws" />
+   <a href="https://github.com/Its-gizmo47">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,aws" />
+   </a>
 </p>
 
 ---
@@ -35,13 +41,17 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-gizmo47&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-gizmo47&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+   <a href="https://github.com/Its-gizmo47">
+    <img src="https://github-readme-stats.vercel.app/api?username=its-gizmo47&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-gizmo47&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+   </a>
 </p>
 
 ### 🖥️ Languages Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="200" alt="Detailed Languages"/>
+   <a href="https://github.com/Its-gizmo47">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="200" alt="Detailed Languages"/>
+   </a>
 </p>
 
 
@@ -49,18 +59,22 @@
 ---
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-gizmo47&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+   <a href="https://github.com/Its-gizmo47">
+      <img src="https://github-profile-trophy.vercel.app/?username=its-gizmo47&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+   </a>
 </p>
 -->
 ---
 
 ## ​ Contribution Snake
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake.svg">
-  </picture>
+   <a href="https://github.com/Its-gizmo47">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake.svg">
+        <img alt="Contribution Snake" src="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake.svg">
+      </picture>
+   </a>
 </div>
 
 ---
