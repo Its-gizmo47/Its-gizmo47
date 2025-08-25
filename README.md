@@ -55,8 +55,9 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/its-gizmo47/its-gizmo47/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 ---
 
 ## 🌐 Let’s Connect
