@@ -42,23 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
-## 💻 Language Usage
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&langs_count=10&layout=donut-vertical&theme=radical&hide_border=true" height="350"/>
-</p>
-
-##  Language Usage (Visual + Text)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&layout=donut-vertical&theme=radical&hide_border=true" height="300"/>
-</p>
-
-**Languages breakdown:**
-- JavaScript — 55%
-- PHP — 20%
-- Python — 15%
-- React Native — 7%
-- Next.js / Others — 3%
+<a href="https://github.com/ahmedalmory/ahmedalmory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalmory&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 
