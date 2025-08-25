@@ -47,6 +47,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&langs_count=10&layout=donut-vertical&theme=radical&hide_border=true" height="350"/>
 </p>
 
+##  Language Usage (Visual + Text)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&layout=donut-vertical&theme=radical&hide_border=true" height="300"/>
+</p>
+
+**Languages breakdown:**
+- JavaScript — 55%
+- PHP — 20%
+- Python — 15%
+- React Native — 7%
+- Next.js / Others — 3%
+
+
 
 
 ---
