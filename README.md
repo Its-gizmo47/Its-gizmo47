@@ -32,21 +32,21 @@
 
 ---
 
-## 📊 Competitive GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-gizmo47&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-gizmo47&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=its-gizmo47&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-gizmo47&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+</p>
+
+### 🖥️ Languages Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="200" alt="Detailed Languages"/>
 </p>
-
-<a href="https://github.com/ahmedalmory/ahmedalmory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gizmo47&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
 
 
 ---
