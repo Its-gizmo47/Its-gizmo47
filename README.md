@@ -62,6 +62,18 @@
 
 ---
 
+## ​ Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/its-gizmo47/its-gizmo47/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+---
+
 ## 🌐 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-haider-388a78306/">
