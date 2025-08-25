@@ -15,11 +15,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-gizmo47&color=blueviolet&style=for-the-badge" alt="profile views"/>
-</p>
-
-
 ## 🛠️ Tech Arsenal
 <p align="center">
   
@@ -77,4 +72,8 @@
   <a href="https://its-gizmo47.github.io/GiZMo47-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=its-gizmo47&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
