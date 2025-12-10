@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-# 👋 Hey, I'm **Ali Haider**  
+# 👋 Hi, I'm **Ali Haider**  
 💻 Full Stack Developer | ⚡ Problem Solver | 🚀 Future AI Engineer  
 
 ---
@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,aws" />
    </a>
 </p>
-
+<!-- 
 ---
 
 ## 📊 GitHub Statistics
@@ -54,6 +54,7 @@
    </a>
 </p>
 
+-->
 
 <!-- 
 ---
