@@ -47,14 +47,16 @@ I design, build, and maintain **production-grade web systems** with a strong foc
 - CI-friendly project structures
 - PHPUnit / Feature Testing
 
-<a href="https://github.com/Its-gizmo47">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,mysql,postgres" />
-</a>
-<br>
-  
-<!-- Frameworks & Stacks -->
+
+<!-- Frameworks -->
 <a href="https://github.com/Its-gizmo47">
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,django,nextjs,react,tailwind" />
+</a>
+<br>
+
+<!-- Languages -->
+<a href="https://github.com/Its-gizmo47">
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,mysql,postgres" />
 </a>
 <br>
   
