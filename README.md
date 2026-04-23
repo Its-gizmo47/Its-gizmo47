@@ -50,11 +50,11 @@ I design, build, and maintain **production-grade web systems** with a strong foc
 ---
 
 ## 📌 What You’ll Find on My GitHub
-- 🧩 Backend-focused projects with **clean architecture**
-- 🏢 SaaS & multi-tenant system patterns
-- 🧪 Feature & integration testing examples
-- ♻️ Refactoring-focused commits
-- 📖 Meaningful commit messages & PR-ready code
+- Backend-focused projects with **clean architecture**
+- SaaS & multi-tenant system patterns
+- Feature & integration testing examples
+- Refactoring-focused commits
+- Meaningful commit messages & PR-ready code
 
 > I prioritize **clarity, scalability, and ownership** over flashy demos.
 
@@ -74,9 +74,9 @@ I design, build, and maintain **production-grade web systems** with a strong foc
   <a href="https://www.linkedin.com/in/ali-haider-388a78306/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://its-gizmo47.github.io/GiZMo47-Portfolio/">
+  <!-- <a href="https://its-gizmo47.github.io/GiZMo47-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
