@@ -16,15 +16,6 @@ I design, build, and maintain **production-grade web systems** with a strong foc
 
 ---
 
-## 🧠 Tech Stack
-- Backend: Laravel, Node.js
-- Frontend: React, Next.js
-- Database: MySQL, PostgreSQL
-- DevOps: Docker, CI/CD (learning)
-- AI: OpenAI APIs, automation workflows
-
----
-
 ## 🏢 Real-World Experience
 - Worked on a **large-scale EV (Electric Vehicle) software project**, contributing to production-grade systems in a real-world, high-impact domain  
 - Designed and maintained **scalable multi-tenant SaaS architectures**, ensuring secure tenant isolation and data boundaries  
@@ -55,24 +46,6 @@ I design, build, and maintain **production-grade web systems** with a strong foc
 - AWS basics
 - CI-friendly project structures
 - PHPUnit / Feature Testing
-
-
-<!-- Frameworks -->
-<a href="https://github.com/Its-gizmo47">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,django,nextjs,react,tailwind" />
-</a>
-<br>
-
-<!-- Languages -->
-<a href="https://github.com/Its-gizmo47">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,mysql,postgres" />
-</a>
-<br>
-  
-<!-- Tools -->
-<a href="https://github.com/Its-gizmo47">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,docker,aws" />
-</a>
 
 ---
 
