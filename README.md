@@ -8,11 +8,20 @@ I design, build, and maintain **production-grade web systems** with a strong foc
 ---
 
 ## 🧠 What I Do
-- 🏗️ Design and build **multi-tenant SaaS platforms**
-- ⚙️ Develop **scalable backend systems & APIs**
-- 🔐 Implement role-based access, site isolation & tenant safety
-- 🚀 Take features from **architecture → development → production**
-- 🤝 Proven experience working **independently and in cross-functional teams**
+- Design and build **multi-tenant SaaS platforms**
+- Develop **scalable backend systems & APIs**
+- Implement role-based access, site isolation & tenant safety
+- Take features from **architecture → development → production**
+- Proven experience working **independently and in cross-functional teams**
+
+---
+
+## 🧠 Tech Stack
+- Backend: Laravel, Node.js
+- Frontend: React, Next.js
+- Database: MySQL, PostgreSQL
+- DevOps: Docker, CI/CD (learning)
+- AI: OpenAI APIs, automation workflows
 
 ---
 
